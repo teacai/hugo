@@ -1,0 +1,2 @@
+# hugo
+Hugo based blog
