@@ -1,0 +1,5 @@
+baseURL = "https://teaca.eu"
+languageCode = "en-us"
+title = "TEACA.EU blog"
+theme = "ananke"
+publishdir = "docs"
