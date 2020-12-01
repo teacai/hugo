@@ -5,6 +5,43 @@
     <link>https://teaca.eu/tags/</link>
     <description>Recent content in Tags on T blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://teaca.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 01 Dec 2020 11:09:46 +0000</lastBuildDate><atom:link href="https://teaca.eu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>content</title>
+      <link>https://teaca.eu/tags/content/</link>
+      <pubDate>Tue, 01 Dec 2020 11:09:46 +0000</pubDate>
+      
+      <guid>https://teaca.eu/tags/content/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://teaca.eu/tags/github/</link>
+      <pubDate>Tue, 01 Dec 2020 11:09:46 +0000</pubDate>
+      
+      <guid>https://teaca.eu/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://teaca.eu/tags/hugo/</link>
+      <pubDate>Tue, 01 Dec 2020 11:09:46 +0000</pubDate>
+      
+      <guid>https://teaca.eu/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>static site generator</title>
+      <link>https://teaca.eu/tags/static-site-generator/</link>
+      <pubDate>Tue, 01 Dec 2020 11:09:46 +0000</pubDate>
+      
+      <guid>https://teaca.eu/tags/static-site-generator/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

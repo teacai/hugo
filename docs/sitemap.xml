@@ -3,26 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://teaca.eu/posts/intro/</loc>
-    <lastmod>2020-11-30T15:50:46+00:00</lastmod>
+    <loc>https://teaca.eu/posts/001-free-blogging-with-hugo-and-github/</loc>
+    <lastmod>2020-12-01T11:09:46+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://teaca.eu/posts/</loc>
-    <lastmod>2020-11-30T15:50:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://teaca.eu/</loc>
-    <lastmod>2020-11-30T15:50:46+00:00</lastmod>
+    <loc>https://teaca.eu/categories/blog/</loc>
+    <lastmod>2020-12-01T11:09:46+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://teaca.eu/categories/</loc>
+    <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teaca.eu/tags/content/</loc>
+    <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teaca.eu/tags/github/</loc>
+    <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teaca.eu/categories/guide/</loc>
+    <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teaca.eu/tags/hugo/</loc>
+    <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teaca.eu/posts/</loc>
+    <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teaca.eu/categories/publishing/</loc>
+    <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teaca.eu/tags/static-site-generator/</loc>
+    <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://teaca.eu/</loc>
+    <lastmod>2020-12-01T11:09:46+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://teaca.eu/tags/</loc>
+    <lastmod>2020-12-01T11:09:46+00:00</lastmod>
   </url>
   
 </urlset>

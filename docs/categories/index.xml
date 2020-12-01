@@ -5,6 +5,34 @@
     <link>https://teaca.eu/categories/</link>
     <description>Recent content in Categories on T blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://teaca.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 01 Dec 2020 11:09:46 +0000</lastBuildDate><atom:link href="https://teaca.eu/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>blog</title>
+      <link>https://teaca.eu/categories/blog/</link>
+      <pubDate>Tue, 01 Dec 2020 11:09:46 +0000</pubDate>
+      
+      <guid>https://teaca.eu/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>guide</title>
+      <link>https://teaca.eu/categories/guide/</link>
+      <pubDate>Tue, 01 Dec 2020 11:09:46 +0000</pubDate>
+      
+      <guid>https://teaca.eu/categories/guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>publishing</title>
+      <link>https://teaca.eu/categories/publishing/</link>
+      <pubDate>Tue, 01 Dec 2020 11:09:46 +0000</pubDate>
+      
+      <guid>https://teaca.eu/categories/publishing/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

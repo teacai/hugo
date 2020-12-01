@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>T blog</title>
-    <link>https://teaca.eu/</link>
-    <description>Recent content on T blog</description>
+    <title>publishing on T blog</title>
+    <link>https://teaca.eu/categories/publishing/</link>
+    <description>Recent content in publishing on T blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 01 Dec 2020 11:09:46 +0000</lastBuildDate><atom:link href="https://teaca.eu/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 11:09:46 +0000</lastBuildDate><atom:link href="https://teaca.eu/categories/publishing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>10 Steps to free blogging with Hugo and GitHub Pages</title>
       <link>https://teaca.eu/posts/001-free-blogging-with-hugo-and-github/</link>

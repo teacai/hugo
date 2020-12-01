@@ -5,15 +5,17 @@
     <link>https://teaca.eu/posts/</link>
     <description>Recent content in Posts on T blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 30 Nov 2020 15:50:46 +0000</lastBuildDate><atom:link href="https://teaca.eu/posts/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 01 Dec 2020 11:09:46 +0000</lastBuildDate><atom:link href="https://teaca.eu/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Intro</title>
-      <link>https://teaca.eu/posts/intro/</link>
-      <pubDate>Mon, 30 Nov 2020 15:50:46 +0000</pubDate>
+      <title>10 Steps to free blogging with Hugo and GitHub Pages</title>
+      <link>https://teaca.eu/posts/001-free-blogging-with-hugo-and-github/</link>
+      <pubDate>Tue, 01 Dec 2020 11:09:46 +0000</pubDate>
       
-      <guid>https://teaca.eu/posts/intro/</guid>
-      <description>Intro post </description>
+      <guid>https://teaca.eu/posts/001-free-blogging-with-hugo-and-github/</guid>
+      <description>10 Steps to free blogging with Hugo and GitHub Pages Blog like a developer: with Hugo and Markdown via your GitHub repository in 10 easy steps. This is a quick guide to your own static blog hosted on GitHub Pages and served on your own domain.
+Hugo This quick start guide is based on Hugo, check their documentation for more configuration options and troubleshooting.
+1. Install Hugo brew install hugo # or port install hugo 2.</description>
     </item>
     
   </channel>

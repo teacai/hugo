@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on T blog</title>
+    <link>https://teaca.eu/categories/test/</link>
+    <description>Recent content in test on T blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 30 Nov 2020 15:50:46 +0000</lastBuildDate><atom:link href="https://teaca.eu/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Free blogging with Hugo and GitHub Pages</title>
+      <link>https://teaca.eu/posts/intro/</link>
+      <pubDate>Mon, 30 Nov 2020 15:50:46 +0000</pubDate>
+      
+      <guid>https://teaca.eu/posts/intro/</guid>
+      <description>Free blogging with Hugo and GitHub Pages Quick guide to your own static blog hosted in GitHub and served on your own domain.
+Hugo Quick start to your static site with Hugo:
+1. Install Hugo brew install hugo # or port install hugo 2. Create new blog hugo new site hugo-blog 2.1 Customize your blog Edit the config.toml file change the title as you wish if you intend to use a custom domain you may want to update the baseURL as well.</description>
+    </item>
+    
+  </channel>
+</rss>
