@@ -1,5 +1,5 @@
 baseURL = "https://teaca.eu"
 languageCode = "en-us"
-title = "TEACA.EU blog"
+title = "T blog"
 theme = "ananke"
 publishdir = "docs"
