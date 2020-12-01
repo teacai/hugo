@@ -8,6 +8,8 @@ tags: [hugo, content, static site generator, github]
 # 10 Steps to free blogging with Hugo and GitHub Pages
 Blog like a developer: with [Hugo](https://gohugo.io/) and [Markdown](https://www.markdownguide.org/getting-started/) via your [GitHub](https://github.com) repository in 10 easy steps.
 This is a quick guide to your own static blog hosted on GitHub Pages and served on your own domain.
+If hosted on GitHub your site can be a 1GB behemoth serving 100GB/month of data - very generous limits (more info available at [about-github-pages](https://docs.github.com/en/free-pro-team@latest/github/working-with-github-pages/about-github-pages#usage-limits)). 
+
 
 #### Hugo
 This quick start guide is based on [Hugo](https://gohugo.io/getting-started/quick-start/), check their documentation for more configuration options and troubleshooting.
