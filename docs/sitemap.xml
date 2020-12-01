@@ -5,61 +5,91 @@
   <url>
     <loc>https://teaca.eu/posts/001-free-blogging-with-hugo-and-github/</loc>
     <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://teaca.eu/categories/blog/</loc>
     <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://teaca.eu/categories/</loc>
     <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://teaca.eu/tags/content/</loc>
     <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://teaca.eu/tags/github/</loc>
     <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://teaca.eu/categories/guide/</loc>
     <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://teaca.eu/tags/hugo/</loc>
     <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://teaca.eu/posts/</loc>
     <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://teaca.eu/categories/publishing/</loc>
     <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://teaca.eu/tags/static-site-generator/</loc>
     <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://teaca.eu/</loc>
     <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://teaca.eu/tags/</loc>
     <lastmod>2020-12-01T11:09:46+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://teaca.eu/contact/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>

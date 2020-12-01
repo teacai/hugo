@@ -16,5 +16,15 @@
       <description>10 Steps to free blogging with Hugo and GitHub Pages Blog like a developer: with Hugo and Markdown via your GitHub repository in 10 easy steps. This is a quick guide to your own static blog hosted on GitHub Pages and served on your own domain. If hosted on GitHub your site can be a 1GB behemoth serving 100GB/month of data - very generous limits (more info available at about-github-pages).</description>
     </item>
     
+    <item>
+      <title>Contact</title>
+      <link>https://teaca.eu/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://teaca.eu/contact/</guid>
+      <description>Let me know what you think:
+ Your Name Email Address An email address is required.  Message   </description>
+    </item>
+    
   </channel>
 </rss>

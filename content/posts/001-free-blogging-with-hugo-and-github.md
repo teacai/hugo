@@ -4,7 +4,9 @@ date: 2020-12-01T11:09:46Z
 draft: false
 categories: [blog, publishing, guide]
 tags: [hugo, content, static site generator, github]
+toc: true
 ---
+
 # 10 Steps to free blogging with Hugo and GitHub Pages
 Blog like a developer: with [Hugo](https://gohugo.io/) and [Markdown](https://www.markdownguide.org/getting-started/) via your [GitHub](https://github.com) repository in 10 easy steps.
 This is a quick guide to your own static blog hosted on GitHub Pages and served on your own domain.
